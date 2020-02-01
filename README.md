@@ -23,3 +23,6 @@ struct XY his[MAX_STACK_SIZE]; //struct array
 </pre>
 
 ## Maze Implementation
+<img width="50%" alt="Maze textfile" src="https://user-images.githubusercontent.com/57944099/73588959-edd35780-4512-11ea-8587-a76334ba6018.PNG"> </br>We used textfile with different numbers to display path and different traps as an input.</br>0 is a wall, 1 is the path, 2 and 3 is where the trap even occurs, 5 is the starting point and 9 is the end of maze. With the textfile as input, we allocated int arrays dynamically.
+
+## Class Diagram
